@@ -1,0 +1,7 @@
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\bin\SampleApplicationFr4.dll.config
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\bin\SampleApplicationFr4.dll
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\bin\SampleApplicationFr4.pdb
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\obj\Debug\SampleApplicationFr4.csprojAssemblyReference.cache
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\obj\Debug\SampleApplicationFr4.csproj.CoreCompileInputs.cache
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\obj\Debug\SampleApplicationFr4.dll
+C:\Users\tsireesha\source\repos\SampleApplicationFr4\SampleApplicationFr4\obj\Debug\SampleApplicationFr4.pdb
