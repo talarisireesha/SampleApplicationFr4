@@ -1,0 +1,15 @@
+node {
+     
+          stage('Git Hub')
+          {
+              // git"https://github.com/talarisireesha/ASP.netFr4.7.2DockerImage.git"
+              url: 'https://github.com/talarisireesha/ASP.netFr4.7.2DockerImage.git'
+               
+          }
+          stage('Build Docker Image')
+          {
+               bat 'docker build -t image .'
+          }
+              
+           
+}
